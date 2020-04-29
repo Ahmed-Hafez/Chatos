@@ -1,0 +1,9 @@
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\bin\Debug\ChatosServer.exe.config
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\bin\Debug\ChatosServer.exe
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\bin\Debug\ChatosServer.pdb
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\obj\Debug\ChatosServer.csprojAssemblyReference.cache
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\obj\Debug\ChatosServer.Properties.Resources.resources
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\obj\Debug\ChatosServer.csproj.GenerateResource.cache
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\obj\Debug\ChatosServer.csproj.CoreCompileInputs.cache
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\obj\Debug\ChatosServer.exe
+F:\GitHub Projects\Chatos\ChatosServer\ChatosServer\obj\Debug\ChatosServer.pdb
